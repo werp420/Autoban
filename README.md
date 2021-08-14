@@ -13,5 +13,5 @@
 <p class="has-line-data" data-line-start="13" data-line-end="15">nice neuss ddos ting retard<br>
 <img src="https://media.discordapp.net/attachments/836893076290404352/872532975470936084/Billed1.JPG" alt="image"></p>
 <h1 class="code-line" data-line-start=15 data-line-end=16 ><a id="_15"></a></h1>
-<p class="has-line-data" data-line-start="16" data-line-end="18">Vi er nok ældere end 90% af dansk fivem. Lær dine facts først lille pep som tror du ejer fivem.<br>
+<p class="has-line-data" data-line-start="16" data-line-end="18">Vi er nok ældere end 99% af dansk fivem. Lær dine facts først lille pep som tror du ejer fivem.<br>
 <img src="https://media.discordapp.net/attachments/836893076290404352/872565906759368825/Billed5.JPG" alt="image"></p>
